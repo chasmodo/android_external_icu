@@ -7,7 +7,7 @@
 // *
 // ***************************************************************************
 lb{
-    Version{"2.0"}
+    Version{"2.1.12.94"}
     zoneStrings{
         "Africa:Accra"{
             ec{"Accra"}
@@ -94,7 +94,7 @@ lb{
             ec{"Monticello, Kentucky"}
         }
         "America:Lower_Princes"{
-            ec{"Lower Prince's Quarter"}
+            ec{"Lower Prince’s Quarter"}
         }
         "America:Mexico_City"{
             ec{"Mexiko-Stad"}
@@ -115,7 +115,7 @@ lb{
             ec{"Saint-Barthélemy"}
         }
         "America:St_Johns"{
-            ec{"St. John's"}
+            ec{"St. John’s"}
         }
         "America:St_Kitts"{
             ec{"St. Kitts"}
@@ -130,7 +130,7 @@ lb{
             ec{"St. Vincent"}
         }
         "Antarctica:DumontDUrville"{
-            ec{"Dumont d'Urville"}
+            ec{"Dumont d’Urville"}
         }
         "Antarctica:Vostok"{
             ec{"Wostok"}
@@ -161,9 +161,6 @@ lb{
         }
         "Asia:Kamchatka"{
             ec{"Kamtschatka"}
-        }
-        "Asia:Kashgar"{
-            ec{"Kaxgar"}
         }
         "Asia:Katmandu"{
             ec{"Kathmandu"}
@@ -500,9 +497,9 @@ lb{
             ls{"Chilenesch Normalzäit"}
         }
         "meta:China"{
-            ld{"Chineesesch Summerzäit"}
-            lg{"Chineesesch Zäit"}
-            ls{"Chineesesch Normalzäit"}
+            ld{"Chinesesch Summerzäit"}
+            lg{"Chinesesch Zäit"}
+            ls{"Chinesesch Normalzäit"}
         }
         "meta:Choibalsan"{
             ld{"Choibalsan-Summerzäit"}
@@ -534,7 +531,7 @@ lb{
             ls{"Davis-Zäit"}
         }
         "meta:DumontDUrville"{
-            ls{"Dumont-d'Urville-Zäit"}
+            ls{"Dumont-d’Urville-Zäit"}
         }
         "meta:East_Timor"{
             ls{"Osttimor-Zäit"}
@@ -639,13 +636,13 @@ lb{
             ls{"Indochina-Zäit"}
         }
         "meta:Indonesia_Central"{
-            ls{"Zentralindoneesesch Zäit"}
+            ls{"Zentralindonesesch Zäit"}
         }
         "meta:Indonesia_Eastern"{
-            ls{"Ostindoneesesch Zäit"}
+            ls{"Ostindonesesch Zäit"}
         }
         "meta:Indonesia_Western"{
-            ls{"Westindoneesesch Zäit"}
+            ls{"Westindonesesch Zäit"}
         }
         "meta:Iran"{
             ld{"Iranesch Summerzäit"}
@@ -757,7 +754,7 @@ lb{
             ls{"Nauru-Zäit"}
         }
         "meta:Nepal"{
-            ls{"Nepaleesesch Zäit"}
+            ls{"Nepalesesch Zäit"}
         }
         "meta:New_Caledonia"{
             ld{"Neikaledonesch Summerzäit"}

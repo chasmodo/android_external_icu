@@ -354,7 +354,7 @@ lb{
         }
         GBP{
             "£",
-            "Britescht Pond Sterling",
+            "Britescht Pond",
         }
         GEK{
             "GEK",
@@ -438,7 +438,7 @@ lb{
         }
         IDR{
             "IDR",
-            "Indoneesesch Rupiah",
+            "Indonesesch Rupiah",
         }
         IEP{
             "IEP",
@@ -526,7 +526,7 @@ lb{
         }
         LBP{
             "LBP",
-            "Libaneesescht Pond",
+            "Libanesescht Pond",
         }
         LKR{
             "LKR",
@@ -618,11 +618,11 @@ lb{
         }
         MTL{
             "MTL",
-            "Malteesesch Lira",
+            "Maltesesch Lira",
         }
         MTP{
             "MTP",
-            "Malteesescht Pond",
+            "Maltesescht Pond",
         }
         MUR{
             "MUR",
@@ -686,11 +686,11 @@ lb{
         }
         NOK{
             "NOK",
-            "Norweegesch Kroun",
+            "Norwegesch Kroun",
         }
         NPR{
             "NPR",
-            "Nepaleesesch Rupie",
+            "Nepalesesch Rupie",
         }
         NZD{
             "NZ$",
@@ -750,7 +750,7 @@ lb{
         }
         RHD{
             "RHD",
-            "Rhodeeseschen Dollar",
+            "Rhodeseschen Dollar",
         }
         ROL{
             "ROL",
@@ -790,15 +790,15 @@ lb{
         }
         SDD{
             "SDD",
-            "Sudaneeseschen Dinar (1992–2007)",
+            "Sudaneseschen Dinar (1992–2007)",
         }
         SDG{
             "SDG",
-            "Sudaneesescht Pond",
+            "Sudanesescht Pond",
         }
         SDP{
             "SDP",
-            "Sudaneesescht Pond (1957–1998)",
+            "Sudanesescht Pond (1957–1998)",
         }
         SEK{
             "SEK",
@@ -838,7 +838,7 @@ lb{
         }
         SSP{
             "SSP",
-            "Südsudaneesescht Pond",
+            "Südsudanesescht Pond",
         }
         STD{
             "STD",
@@ -882,7 +882,7 @@ lb{
         }
         TND{
             "TND",
-            "Tuneeseschen Dinar",
+            "Tuneseschen Dinar",
         }
         TOP{
             "TOP",
@@ -962,7 +962,7 @@ lb{
         }
         VND{
             "₫",
-            "Vietnameeseschen Dong",
+            "Vietnameseschen Dong",
         }
         VUV{
             "VUV",
@@ -1104,6 +1104,22 @@ lb{
             "ZWR",
             "Simbabwe-Dollar (2008)",
         }
+    }
+    Currencies%narrow{
+        BDT{"৳"}
+        BND{"$"}
+        CNY{"¥"}
+        HKD{"$"}
+        INR{"₹"}
+        JPY{"¥"}
+        KHR{"៛"}
+        KRW{"₩"}
+        LAK{"₭"}
+        MNT{"₮"}
+        PHP{"₱"}
+        SGD{"$"}
+        TWD{"NT$"}
+        VND{"₫"}
     }
     CurrencyPlurals{
         ADP{
@@ -1451,8 +1467,8 @@ lb{
             other{"Franséisch Frang"}
         }
         GBP{
-            one{"Britescht Pond Sterling"}
-            other{"Britesch Pond Sterling"}
+            one{"Britescht Pond"}
+            other{"Britesch Pond"}
         }
         GEK{
             one{"Georgesche Kupon Larit"}
@@ -1535,8 +1551,8 @@ lb{
             other{"Ungaresch Forint"}
         }
         IDR{
-            one{"Indoneesesch Rupiah"}
-            other{"Indoneesesch Rupiah"}
+            one{"Indonesesch Rupiah"}
+            other{"Indonesesch Rupiah"}
         }
         IEP{
             one{"Irescht Pond"}
@@ -1623,8 +1639,8 @@ lb{
             other{"Laotesch Kip"}
         }
         LBP{
-            one{"Libaneesescht Pond"}
-            other{"Libaneesesch Pond"}
+            one{"Libanesescht Pond"}
+            other{"Libanesesch Pond"}
         }
         LKR{
             one{"Sri-Lanka-Rupie"}
@@ -1715,12 +1731,12 @@ lb{
             other{"Mauretanesch Ouguiya"}
         }
         MTL{
-            one{"Malteesesch Lira"}
-            other{"Malteesesch Lira"}
+            one{"Maltesesch Lira"}
+            other{"Maltesesch Lira"}
         }
         MTP{
-            one{"Malteesescht Pond"}
-            other{"Malteesesch Pond"}
+            one{"Maltesescht Pond"}
+            other{"Maltesesch Pond"}
         }
         MUR{
             one{"Mauritius-Rupie"}
@@ -1783,12 +1799,12 @@ lb{
             other{"Hollännesch Gulden"}
         }
         NOK{
-            one{"Norweegesch Kroun"}
-            other{"Norweegesch Krounen"}
+            one{"Norwegesch Kroun"}
+            other{"Norwegesch Krounen"}
         }
         NPR{
-            one{"Nepaleesesch Rupie"}
-            other{"Nepaleesesch Rupien"}
+            one{"Nepalesesch Rupie"}
+            other{"Nepalesesch Rupien"}
         }
         NZD{
             one{"Neiséiland-Dollar"}
@@ -1847,8 +1863,8 @@ lb{
             other{"Katar-Riyal"}
         }
         RHD{
-            one{"Rhodeeseschen Dollar"}
-            other{"Rhodeesesch Dollar"}
+            one{"Rhodeseschen Dollar"}
+            other{"Rhodesesch Dollar"}
         }
         ROL{
             one{"Rumänesche Leu (1952–2006)"}
@@ -1887,16 +1903,16 @@ lb{
             other{"Seychellen-Rupien"}
         }
         SDD{
-            one{"Sudaneeseschen Dinar (1992–2007)"}
-            other{"Sudaneesesch Dinaren (1992–2007)"}
+            one{"Sudaneseschen Dinar (1992–2007)"}
+            other{"Sudanesesch Dinaren (1992–2007)"}
         }
         SDG{
-            one{"Sudaneesescht Pond"}
-            other{"Sudaneesesch Pond"}
+            one{"Sudanesescht Pond"}
+            other{"Sudanesesch Pond"}
         }
         SDP{
-            one{"Sudaneesescht Pond (1957–1998)"}
-            other{"Sudaneesesch Pond (1957–1998)"}
+            one{"Sudanesescht Pond (1957–1998)"}
+            other{"Sudanesesch Pond (1957–1998)"}
         }
         SEK{
             one{"Schwedesch Kroun"}
@@ -1935,8 +1951,8 @@ lb{
             other{"Surinamesch Gulden"}
         }
         SSP{
-            one{"Südsudaneesescht Pond"}
-            other{"Südsudaneesesch Pond"}
+            one{"Südsudanesescht Pond"}
+            other{"Südsudanesesch Pond"}
         }
         STD{
             one{"São-toméeschen Dobra"}
@@ -1979,8 +1995,8 @@ lb{
             other{"Turkmenistan-Manat"}
         }
         TND{
-            one{"Tuneeseschen Dinar"}
-            other{"Tuneesesch Dinaren"}
+            one{"Tuneseschen Dinar"}
+            other{"Tunesesch Dinaren"}
         }
         TOP{
             one{"Tongaeschen Paʻanga"}
@@ -2059,8 +2075,8 @@ lb{
             other{"Venezolanesch Bolívares"}
         }
         VND{
-            one{"Vietnameeseschen Dong"}
-            other{"Vietnameesesch Dong"}
+            one{"Vietnameseschen Dong"}
+            other{"Vietnamesesch Dong"}
         }
         VUV{
             one{"Vanuatu-Vatu"}
@@ -2207,5 +2223,5 @@ lb{
         one{"{0} {1}"}
         other{"{0} {1}"}
     }
-    Version{"2.0"}
+    Version{"2.1.12.94"}
 }

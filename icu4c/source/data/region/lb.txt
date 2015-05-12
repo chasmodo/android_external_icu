@@ -28,7 +28,7 @@ lb{
         039{"Südeuropa"}
         053{"Australien an Neiséiland"}
         054{"Melanesien"}
-        057{"Mikroneesescht Inselgebitt"}
+        057{"Mikronesescht Inselgebitt"}
         061{"Polynesien"}
         142{"Asien"}
         143{"Zentralasien"}
@@ -137,7 +137,7 @@ lb{
         GU{"Guam"}
         GW{"Guinea-Bissau"}
         GY{"Guyana"}
-        HK{"Spezialverwaltungszon Hong Kong"}
+        HK{"Hong Kong"}
         HM{"Heard- a McDonald-Inselen"}
         HN{"Honduras"}
         HR{"Kroatien"}
@@ -191,7 +191,7 @@ lb{
         ML{"Mali"}
         MM{"Myanmar"}
         MN{"Mongolei"}
-        MO{"Spezialverwaltungszon Macau"}
+        MO{"Macau"}
         MP{"Nërdlech Marianen"}
         MQ{"Martinique"}
         MR{"Mauretanien"}
@@ -210,7 +210,7 @@ lb{
         NG{"Nigeria"}
         NI{"Nicaragua"}
         NL{"Holland"}
-        NO{"Norweegen"}
+        NO{"Norwegen"}
         NP{"Nepal"}
         NR{"Nauru"}
         NU{"Niue"}
@@ -226,7 +226,7 @@ lb{
         PM{"St. Pierre a Miquelon"}
         PN{"Pitcairninselen"}
         PR{"Puerto Rico"}
-        PS{"Palestinensesch Autonomiegebidder"}
+        PS{"Palestina"}
         PT{"Portugal"}
         PW{"Palau"}
         PY{"Paraguay"}
@@ -282,7 +282,7 @@ lb{
         UY{"Uruguay"}
         UZ{"Usbekistan"}
         VA{"Vatikanstad"}
-        VC{"St. Vincent an d'Grenadinnen"}
+        VC{"St. Vincent an d’Grenadinnen"}
         VE{"Venezuela"}
         VG{"Britesch Joffereninselen"}
         VI{"Amerikanesch Joffereninselen"}
@@ -298,5 +298,15 @@ lb{
         ZW{"Simbabwe"}
         ZZ{"Onbekannt Regioun"}
     }
-    Version{"2.0"}
+    Countries%short{
+        GB{"GB"}
+        US{"US"}
+    }
+    Countries%variant{
+        CD{"Kongo (Demokratesch Republik)"}
+        CG{"Kongo (Republik)"}
+        CI{"Côte d’Ivoire"}
+        MK{"Mazedonien (EJR)"}
+    }
+    Version{"2.1.12.94"}
 }
